@@ -5,6 +5,7 @@ body {
   font-family: "Poppins";
   background-color: rgb(204, 168, 168);
   color: rgb(39, 1, 1);
+  font-size: 1rem;
   
   
   
@@ -72,7 +73,7 @@ li{
 /*Responsive Styles*/
 
 @media screen and (min-width:860px) {
-  body{font-size: 1.2rem;}
+  
 
   .container{display: grid;
         grid-template-columns: 1fr 3fr 1fr;
