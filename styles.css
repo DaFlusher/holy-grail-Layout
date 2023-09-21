@@ -72,7 +72,7 @@ li{
 /*Responsive Styles*/
 
 @media screen and (min-width:860px) {
-  body{font-size: 1.375rem;}
+  body{font-size: 1.2rem;}
 
   .container{display: grid;
         grid-template-columns: 1fr 3fr 1fr;
